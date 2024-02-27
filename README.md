@@ -196,7 +196,7 @@ Warto wspomnieć, że metody generowania głosu stają się coraz bardziej ideal
 
 W procesie manipulacji wizerunkiem twarzy na zdjęciach lub materiałach wideo również mogą wystąpić błędy. Łatwo dostrzegalne są artefakty, które pojawiają się przy większym obrocie głowy. Jak już wspomniano, manipulacje obrazem twarzy zwykle opierają się na jej punktach charakterystycznych, takich jak oczy, nos, usta. Przy większych obrotach, maski punktów wykorzystywane do mapowania twarzy mogą nie nadążać za zmianą perspektywy, co prowadzi do do widocznych zniekształceń. W sytuacjach, gdy głowa na wideo się obraca lub przechyla, materiały wygenerowane techniką deepfake mogą wykazywać nienaturalne artefakty, takie jak zniekształcenia skóry lub niewłaściwe śledzenie ruchów. Podobna sytuacja występuje przy zasłonięciach obszaru twarzy, np. przy przesuwaniu dłonią, lub innym obiektem przed twarzą. W miejscach granic nakładania twarzy, mogą także wystąpić nienaturalne cienie lub rozmazania, i inne błędy na krawędziach konturu twarzy. 
 
-![](artefacts_rot.gif)
+![](image191.gif)
 
 W syntetycznych materiałach wideo, zwłaszcza tych wykorzystujących technologie deepfake do synchronizacji mowy, często występują problemy z dokładnym dopasowaniem ruchów warg do słyszalnych słów. Może to objawiać się w postaci opóźnień lub przedwczesnych ruchów warg w stosunku do wypowiadanych słów. Dodatkowo, szczegóły takie jak zęby, kontur ust czy oczy mogą wydawać się nienaturalnie rozmazane lub nierealistycznie ostre, zwłaszcza, gdy osoba na nagraniu zmienia wyraz twarzy. W materiałach deepfake, mruganie może być rzadkie, nieregularne lub w ogóle nie występować. 
 
