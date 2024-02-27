@@ -1,5 +1,5 @@
 ![](Iga_Angelina.png)
-*Zastosowanie technologii deepfake do podmiany twarzy Idy Świątek na twarz Angeliny Jolie
+*Zastosowanie technologii deepfake do podmiany twarzy Idy Świątek na twarz Angeliny Jolie*
 
 Technologia deepfake za sprawą szybkiego postępu sztucznej inteligencji i związanych z nią technik generatywnych staje się narzędziem, do którego dostęp może mieć prawie każdy. Umożliwia ona modyfikowanie i tworzenie audiowizualnych treści z udziałem określonych osób, umieszczając je w kontekście zdarzeń, które mogły nigdy nie mieć miejsca. Termin “deepfake” swoją historią sięga roku 2017, kiedy to syntetyczne dane tworzone za pomocą generatywnych sieci przeciwstawnych prezentowały głównie treści pornograficzne. Warto jednak zauważyć, że fundamenty tej technologii, czyli architektura tej sieci powstała w roku 2014, a jedne z pierwszych metod modyfikowania obrazu i wideo wrzucane dzisiaj do worka z napisem “technologia deepfake” powstały dwa lata później. Jakość ówczesnych manipulacji audiowizualnych znacznie odbiegała od standardów, które obserwujemy obecnie, co tłumaczy, dlaczego termin „deepfake” nie był jeszcze wtedy tak szeroko rozpoznawalny jak jest dziś.
 
@@ -33,7 +33,9 @@ Manipulacja obrazem to zespół technik znany równie długo, jak powszechny dos
 Wystarczy porównać jakość prezentowanych efektów specjalnych wykorzystujących technologię deepfake we współczesnych filmach akcji, a w ich kultowych, starszych odpowiednikach, kiedy technologia nie była na tyle rozwinięta. 
 Można przewidywać, że koszty produkcji będą się zmniejszać w sposób odwrotnie proporcjonalny do jakości tych efektów, z potencjalną redukcją kosztów produkcji filmów animowanych o 90%. Co zostało wspomniane w rozdziale wcześniej, podobny los może czekać w przyszłości branżę filmową, w której akcje filmu wedle scenariusza wykonywane będą bez fizycznego udziału ludzi, a nawet i przy wykorzystaniu realnego wizerunku aktora. W świetle następnych kamieni milowych w generowaniu filmów, technologia staje się coraz bardziej zdolna do rzucenia tego typu wyzwania. Przytoczyć w tej kwestii można dwie premiery z lutego 2024. roku, mianowicie Sora, czyli model OpenAI generujący zaskakująco realistyczne materiały wizualne oraz nowa architektura V-Jepa od firmy Meta, zdolna w czasie rzeczywistym uczyć się filmów i "domyślać się" zasłoniętych treści, naśladując ludzki proces uczenia.
  ![](V-jepa.png)
- *Prezentacja możliwości modelu V-Jepa, zdolnego do odtwarzania zasłoniętych elementów, Źródło: https://pl.techwar.gr/342233/v-jepa-i-apantisi-tou-meta-stin-syntheti-katanoisi-vinteo/ 
+ *Prezentacja możliwości modelu V-Jepa, zdolnego do odtwarzania zasłoniętych elementów.*
+
+ Źródło: https://pl.techwar.gr/342233/v-jepa-i-apantisi-tou-meta-stin-syntheti-katanoisi-vinteo/ 
  
 
 ### Fałszywa pamięć
@@ -79,10 +81,12 @@ https://cyberscoop.com/fbi-foreign-actors-deepfakes-cyber-influence-operations/
 Za sprawą działalności cyberprzestępców na mediach społecznościowych możemy natknąć się na deepfake w reklamach, na których możemy ujrzeć polityków i osoby publiczne.
 
 ![](polityk_reklama.png)
+
 *Reklama wykorzystująca wizerunek polityka.*
 
 ![](tvp_reklama.png)
-*Reklama fałszująca transmisję TVP, wykorzystująca metody syntezy głosu
+
+*Reklama fałszująca transmisję TVP, wykorzystująca metody syntezy głosu*
 
 Uważa się, że jednym z głównych zagrożeń w 2024 roku będą polityczne ataki deepfake, które wpisują się w szeroko pojęty obszar zagrożeń społecznych. Zjawisko to może mieć znaczenie na arenie międzynarodowej, zwłaszcza podczas wyborów prezydenckich w Stanach Zjednoczonych, jak również podczas lokalnych wyborów samorządowych w Polsce czy wyborów do Parlamentu Europejskiego. Rozwój technologiczny niesie za sobą takie wyzwania, na które konieczne jest znalezienie adekwatnych odpowiedzi. Jednym z fundamentalnych problemów wolnych społeczeństw jest identyfikacja fałszywych treści deepfake, co komplikuje się dodatkowo dążeniem do ochrony wolności słowa. Taka postawa, z natury szlachetna, spowalnia jednak reakcje, zgodnie z powiedzeniem, że "*kłamstwa podróżują po całym świecie, zanim prawda zdąży założyć buty*".
 
