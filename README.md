@@ -62,8 +62,13 @@ https://www.forbes.com/sites/jessedamiani/2019/09/03/a-voice-deepfake-was-used-t
 
 Zdarzają się przypadki, w których oszuści wykorzystują zmanipulowane materiały, z udziałem publicznie rozpoznawalnych osób w celu promowania różnego rodzaju oszustw, zwanych potocznie "*scamami*". Takie materiały mogą prezentować celebrytów, wpływowych liderów biznesu lub inne znane postacie, które rzekomo popierają produkty inwestycyjne, inicjatywy związane kryptoaktywami lub inne schematy zarobkowe. W rzeczywistości, te osoby nigdy nie wyraziły zgody na wykorzystanie swojego wizerunku, a materiały są sfałszowane. To zjawisko jest powszechnie rozpoznawalne również w kontekście polskim. W październiku 2023r. na fałszywym kanale na Facebooku pojawił się materiał wykorzystujący wizerunek Roberta Lewandowskiego, promujący szybkie zarabianie pieniędzy za pomocą aplikacji mobilnej. Podkreślano, że wykorzystywana przez piłkarza aplikacja bez wysiłku generuje przychód 500 EUR miesięcznie. Innym tego typu procederem były rzekome programy inwestycyjne Baltic Pipe Project, uruchomionego przez polski rząd, który "*gwarantuje wszystkie wypłaty*". Reklamy te wykorzystywały wizerunki polskich polityków, m.in. Mateusza Morawieckiego, Andrzeja Dudy, Jarosława Kaczyńskiego. Nie były to akcje przedstawiane wyłącznie w formie postów na portalach społecznościowych, ale także reklamy wyświetlane w wielu innych przestrzeniach internetowych.
 https://niebezpiecznik.pl/post/uwaga-na-deepfakei-z-vip-ami-np-andrzejem-duda-robertem-lewandowskim/
-<video src='Lewy_DF.mp4' width=180/>
-![](Lewy_DF.mp4)
+
+
+
+
+https://github.com/Tadz1k/ZuIGb5zrqB/assets/50612974/5f55d901-f95f-446f-a12d-92380aa4ab5b
+
+
 *Fałszywa reklama aplikacji do inwestycji, wykorzystująca wizerunek znanego piłkarza polskiego Roberta Lewandowskiego z wygenerowanym materiałem głosowym.*
 
 Również powszechne stały się tzw. "*farmy trolli*", czyli zorganizowane grupy, tworzące fałszywe konta na mediach społecznościowych. Wykorzystują one technologię deepfake do nadawania większej wiarygodności swoim działaniom, poprzez tworzenie realistycznych zdjęć i nagrań, imitując autentyczne konta. Te konta są wykorzystywane do manipulowania opinią publiczną, rozsiewania dezinformacji oraz wpływania na dyskurs polityczny i społeczny.
@@ -147,7 +152,17 @@ Klonowanie głosu, to bardziej zaawansowana technologia, która pozwala na tworz
 
 Nowoczesna technologia pozwala na tworzenie dobrej jakości syntetycznych materiałów audio bazując tylko na minucie głosu w przypadku metod TTS i około 6 minut dla podejścia klonowania głosu. Poniżej zamieszczone są przykłady syntetycznej mowy wygenerowane metodą TTS, wykorzystującą komercyjne oprogramowanie ElevenLabs oraz VC, uzyskane narzędziem RVC o otwartym kodzie źródłowym.
 
+
+
+
+https://github.com/Tadz1k/ZuIGb5zrqB/assets/50612974/5f98c562-5cf3-44d7-b1e5-5c8f7d90a550
+
 ![](11Labs_EBT_TTS.mp3)*Przykład treści wygenerowanej na podstawie tekstu i próbki głosu o długości około 60 sekund.*
+
+
+
+
+https://github.com/Tadz1k/ZuIGb5zrqB/assets/50612974/a335605f-15f9-4e73-8b59-8d113a5b53c2
 
 ![](rvc_EBT_VC.wav)*Przykład syntetycznej mowy uczonej na próbce głosu o długości 6 minut.*
 
@@ -165,8 +180,13 @@ Audio deepfake’i obecnie nadal zawierają wiele niedoskonałości. W obliczu m
 
 W trakcie nagrania lub wypowiedzi może dojść do nieoczekiwanej zmiany barwy głosu, tonu, wysokości dźwięku, lub akcentu. Metody syntezy głosu czasem mają problem z utrzymaniem konsekwentnie określonego profilu głosowego. Dodatkowym sygnałem mogą być błędy w wymowie słów, przede wszystkim liczb, dat, nazwisk, terminów technicznych i słów obcojęzycznych. Przykład takiej sytuacji obserwujemy w deepfake'u z udziałem M. Morawieckiego, gdzie jego wizerunek został wykorzystany do promocji fałszywej inwestycji (dodać). Można tam usłyszeć niezręczne sformułowania typu: "*od 1 września 2023 (dwutysięcznego dwadzieścia trzeciego roku) uruchamiamy platformę, dzięki której każdy Polak będzie zarabiał (...)*", które nie są charakterystyczne dla naturalnej mowy i mogą wzbudzać podejrzenia co do autentyczności nagrania.
 
+
+
+
+https://github.com/Tadz1k/ZuIGb5zrqB/assets/50612974/b533b4f5-1605-4524-8f8c-616859547014
+
 ![](baltic_pipe.mp4)
-  *Przykład deepfake'a umieszczonego na Facebooku promującego fałszywą inwestycję finansową.*
+*Przykład deepfake'a umieszczonego na Facebooku promującego fałszywą inwestycję finansową.*
 
 Cechą nabytą i charakterystyczną przez ludzi jest sposób mówienia. Jeśli słyszany głos jest bardzo podobny do osoby, którą znacie, znakiem ostrzegawczym może być inny styl mówienia i tempo mowy, niepasujące do danego mówcy. Naturalne nagrania rzadko są wolne od odgłosów w tle. Ich brak, niespójność lub trzaski może sugerować, że mamy doczynienie z generowaną mową. 
 
@@ -176,11 +196,11 @@ Warto wspomnieć, że metody generowania głosu stają się coraz bardziej ideal
 
 W procesie manipulacji wizerunkiem twarzy na zdjęciach lub materiałach wideo również mogą wystąpić błędy. Łatwo dostrzegalne są artefakty, które pojawiają się przy większym obrocie głowy. Jak już wspomniano, manipulacje obrazem twarzy zwykle opierają się na jej punktach charakterystycznych, takich jak oczy, nos, usta. Przy większych obrotach, maski punktów wykorzystywane do mapowania twarzy mogą nie nadążać za zmianą perspektywy, co prowadzi do do widocznych zniekształceń. W sytuacjach, gdy głowa na wideo się obraca lub przechyla, materiały wygenerowane techniką deepfake mogą wykazywać nienaturalne artefakty, takie jak zniekształcenia skóry lub niewłaściwe śledzenie ruchów. Podobna sytuacja występuje przy zasłonięciach obszaru twarzy, np. przy przesuwaniu dłonią, lub innym obiektem przed twarzą. W miejscach granic nakładania twarzy, mogą także wystąpić nienaturalne cienie lub rozmazania, i inne błędy na krawędziach konturu twarzy. 
 
-![](image191 1.gif)
+![](artefacts_rot.gif)
 
 W syntetycznych materiałach wideo, zwłaszcza tych wykorzystujących technologie deepfake do synchronizacji mowy, często występują problemy z dokładnym dopasowaniem ruchów warg do słyszalnych słów. Może to objawiać się w postaci opóźnień lub przedwczesnych ruchów warg w stosunku do wypowiadanych słów. Dodatkowo, szczegóły takie jak zęby, kontur ust czy oczy mogą wydawać się nienaturalnie rozmazane lub nierealistycznie ostre, zwłaszcza, gdy osoba na nagraniu zmienia wyraz twarzy. W materiałach deepfake, mruganie może być rzadkie, nieregularne lub w ogóle nie występować. 
 
-![](image193 2.gif)
+![](image193_optimized.gif)
 
 W nagraniach tworzonych za pomocą technologii deepfake często można zaobserwować subtelne, ale niezgodne z rzeczywistością zmiany w proporcjach twarzy, które mogą pojawiać się lub znikać w trakcie nagrania. W naturalnych materiałach emocje są zazwyczaj spójne z tonem głosu, mimiką twarzy i ogólnym zachowaniem. W deepfake’ach ta spójność jest często zaburzona. Szczególnie trudnymi do realistycznego odtworzenia są szczegóły takie jak włosy, zmarszczki, czy zęby. Błędy w ich renderowaniu, zmiany, przerwy, zakrzywienia mogą  być oznaką manipulacji. W materiałach wizualnych często pojawiają się, różnego rodzaju błędy generacji, obejmujące wszelkie niespójności w renderowaniu, które odbiegają od oczekiwanego naturalnego obrazu, zarówno w obrębie twarzy jak i towarzyszącego tła. 
 
