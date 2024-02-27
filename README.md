@@ -279,18 +279,30 @@ https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained
 https://www.researchgate.net/publication/361086563_Deepfakes_generation_and_detection_state-of-the-art_open_challenges_countermeasures_and_way_forward
 
 W 2017 roku na Redit zaczął wrzucać posty porno: https://www.britannica.com/technology/deepfake
+
 2023 State of Deepfakes: https://www.pcmag.com/news/the-internet-is-full-of-deepfakes-and-most-of-them-are-porn
-[https://www.irishexaminer.com/news/arid-41006312.html](https://www.irishexaminer.com/news/arid-41006312.html)
+
+https://www.irishexaminer.com/news/arid-41006312.html
+
 Andrew Lewis, Patrick Vu, Raymond M. Duch, Areeq Chowdhury, Deepfake detection with and without content warnings, https://doi.org/10.1098/rsos.231214, 27.11.2023
+
 Carry Fisher / Star Wars / Księżniczka Leia https://expmag.com/2020/10/a-new-film-with-a-dead-star-thanks-to-cgi-and-deepfake-technology-its-possible/
 in 2019’s _Star Wars: The Rise Of Skywalker,_
+
 https://www.hollywoodreporter.com/movies/movie-news/how-furious-7-brought-late-845763/
-[Paul Walker](https://www.hollywoodreporter.com/t/paul-walker/)
+
+https://www.hollywoodreporter.com/t/paul-walker/
+
 https://wustllawreview.org/2023/02/22/a-privacy-torts-solution-to-postmortem-deepfakes/
+
 https://www.expresscomputer.in/guest-blogs/future-of-deepfake-in-education-and-employability-sector/106735/
+
 Malaria must die, Backham: https://www.youtube.com/watch?v=QiiSAvKJIHo&ab_channel=ZeroMalariaBritain
- Cięcie kosztów animacji: https://www.bloomberg.com/news/articles/2023-11-09/ai-will-cut-cost-of-animated-films-by-90-jeff-katzenberg-says?embedded-checkout=true
+
+Cięcie kosztów animacji: https://www.bloomberg.com/news/articles/2023-11-09/ai-will-cut-cost-of-animated-films-by-90-jeff-katzenberg-says?embedded-checkout=true
+
 Sora: https://openai.com/sora
+
 V-Jepa: https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/
 
 Ikony pochodzą z https://www.flaticon.com/
