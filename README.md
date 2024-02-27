@@ -103,7 +103,7 @@ Technika odtwarzania twarzy umożliwia animację statycznego zdjęcia osoby, wyk
 
 ### Przekształcanie dźwięku w ruch ust (wav to lip) 
 
-![](musk_wav2lip 1.png)
+![](musk_wav2lip.png)
 
 W ostatnich latach ogromną popularność zdobyła innowacyjna metoda znana jako "*wav to lip*", która rewolucjonizuje sposób, w jaki postrzegamy i interpretujemy materiały wideo. Podstawą tej technologii jest prosty, ale niezwykle efektywny pomysł synchronizacji ruchów warg postaci na ekranie z dźwiękiem podanym jako wejście. W praktyce oznacza to, że widzowie otrzymują wrażenie, że osoba na ekranie faktycznie wypowiada słowa, które słychać w nagraniu audio. Efekt jest tak przekonujący, że powstają wrażenie autentycznych wypowiedzi, choć w rzeczywistości są one wytworem sztucznej manipulacji. Dzięki wykorzystaniu zaawansowanej syntezy dźwięku, nagrania te zdają się być niezwykle realistyczne, co stwarza nowe wyzwania w kontekście autentyczności prezentowanych treści w erze cyfrowej.
 ### Modyfikacja atrybutów twarzy (face attributes modification)
