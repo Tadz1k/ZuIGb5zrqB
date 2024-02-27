@@ -255,4 +255,5 @@ V-Jepa: https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embeddin
 Ikony pochodzą z https://www.flaticon.com/
 
 
-![](https://lh3.googleusercontent.com/drive-viewer/AKGpihbBKntHAtuBJoq7stn6vDRCSx2LdFB6WQs_xOnAGgtKk30_fRxrm7cvT2ISdhrCuqcVr1GGPffmb5IDmvOFHPq7858JGA=s2560)
+
+![](https://drive.usercontent.google.com/download?id=18v7G96z1WDDMN8GgYSVhb-Q0ABSRO9BQ)
