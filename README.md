@@ -1,4 +1,4 @@
-![[Pasted image 20240227083148.png]]
+![](Pasted image 20240227083148.png)
 *Zastosowanie technologii deepfake do podmiany twarzy Idy Świątek na twarz Angeliny Jolie
 
 Technologia deepfake za sprawą szybkiego postępu sztucznej inteligencji i związanych z nią technik generatywnych staje się narzędziem, do którego dostęp może mieć prawie każdy. Służy ona do modyfikacji i tworzenia treści audiowizualnych przedstawiających konkretną osobę, tym samym stawiając ją w sytuacji, która mogła nigdy się nie zdarzyć. Termin “deepfake” swoją historią sięga roku 2017. Wtedy syntetyczne dane tworzone przy pomocy generatywnych sieci przeciwstawnych prezentowały głównie treści pornograficzne. Należy jednak wspomnieć jeszcze o tym, że architektura tej sieci powstała w roku 2014, a jedne z pierwszych metod modyfikowania obrazu i wideo wrzucane dzisiaj do worka z napisem “technologia deepfake” powstały dwa lata później. Wyniki manipulacji materiałów audiowizualnych jakością odstawały od tych, które widzimy dzisiaj, dlatego wtedy jeszcze o tym terminie nie było tak głośno, jak jest dziś. 
