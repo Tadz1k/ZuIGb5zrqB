@@ -60,10 +60,9 @@ Cyberprzestępczość nasila się na całym świecie, a technologie sztucznej in
 
 Przykładem skuteczności takich metod jest przekonanie pracownika międzynarodowej firmy z oddziałem w Hongkongu do przekazania 25 milionów dolarów oszustom. Pomimo wstępnych podejrzeń pracownika co do otrzymanych mailowo instrukcji, zorganizowana przez oszustów wideorozmowa, podczas której podszywali się oni pod członków organizacji, zniwelowała jego obawy i skłoniła do działania zgodnie z fałszywymi instrukcjami rzekomego dyrektora finansowego. Analogicznie, w brytyjskiej firmie energetycznej, oszuści nakłonili pracownika do przelania 220 000 euro, wykorzystując do tego celu perfekcyjnie imitowany głos i akcent rzekomego przełożonego.
 
-https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html
 https://www.forbes.com/sites/jessedamiani/2019/09/03/a-voice-deepfake-was-used-to-scam-a-ceo-out-of-243000/
 
-Zdarzają się przypadki, w których oszuści wykorzystują zmanipulowane materiały, z udziałem publicznie rozpoznawalnych osób w celu promowania różnego rodzaju oszustw, zwanych potocznie "*scamami*". Takie materiały mogą prezentować celebrytów, wpływowych liderów biznesu lub inne znane postacie, które rzekomo popierają produkty inwestycyjne, inicjatywy związane kryptoaktywami lub inne schematy zarobkowe. W rzeczywistości, te osoby nigdy nie wyraziły zgody na wykorzystanie swojego wizerunku, a materiały są sfałszowane. To zjawisko jest powszechnie rozpoznawalne również w kontekście polskim. W październiku 2023r. na fałszywym kanale na Facebooku pojawił się materiał wykorzystujący wizerunek Roberta Lewandowskiego, promujący szybkie zarabianie pieniędzy za pomocą aplikacji mobilnej. Podkreślano, że wykorzystywana przez piłkarza aplikacja bez wysiłku generuje przychód 500 EUR miesięcznie. Innym tego typu procederem były rzekome programy inwestycyjne Baltic Pipe Project, uruchomionego przez polski rząd, który "*gwarantuje wszystkie wypłaty*". Reklamy te wykorzystywały wizerunki polskich polityków, m.in. Mateusza Morawieckiego, Andrzeja Dudy, Jarosława Kaczyńskiego. Nie były to akcje przedstawiane wyłącznie w formie postów na portalach społecznościowych, ale także reklamy wyświetlane w wielu innych przestrzeniach internetowych.
+Zdarzają się przypadki, w których oszuści wykorzystują zmanipulowane materiały z udziałem publicznie rozpoznawalnych osób, w celu promowania różnego rodzaju oszustw, zwanych potocznie "*scamami*". Takie materiały mogą prezentować celebrytów, wpływowych liderów biznesu lub inne znane postacie, które rzekomo popierają produkty inwestycyjne, inicjatywy związane kryptoaktywami lub inne schematy zarobkowe. W rzeczywistości, te osoby nigdy nie wyraziły zgody na wykorzystanie swojego wizerunku, a materiały są sfałszowane. To zjawisko jest powszechnie rozpoznawalne również w kontekście polskim. W październiku 2023r. na fałszywym kanale na Facebooku pojawił się materiał wykorzystujący wizerunek Roberta Lewandowskiego, promujący szybkie zarabianie pieniędzy za pomocą aplikacji mobilnej. Podkreślano, że wykorzystywana przez piłkarza aplikacja bez wysiłku generuje przychód 500 EUR miesięcznie. Innym tego typu procederem były rzekome programy inwestycyjne Baltic Pipe Project, uruchomionego przez polski rząd, który "*gwarantuje wszystkie wypłaty*". Reklamy te wykorzystywały wizerunki polskich polityków, m.in. Mateusza Morawieckiego, Andrzeja Dudy, Jarosława Kaczyńskiego. Nie były to akcje przedstawiane wyłącznie w formie postów na portalach społecznościowych, ale także reklamy wyświetlane w wielu innych przestrzeniach internetowych.
 https://niebezpiecznik.pl/post/uwaga-na-deepfakei-z-vip-ami-np-andrzejem-duda-robertem-lewandowskim/
 
 
@@ -301,6 +300,8 @@ https://www.hollywoodreporter.com/t/paul-walker/
 https://wustllawreview.org/2023/02/22/a-privacy-torts-solution-to-postmortem-deepfakes/
 
 https://www.expresscomputer.in/guest-blogs/future-of-deepfake-in-education-and-employability-sector/106735/
+
+https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html
 
 Malaria must die, Backham: https://www.youtube.com/watch?v=QiiSAvKJIHo&ab_channel=ZeroMalariaBritain
 
