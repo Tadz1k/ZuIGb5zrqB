@@ -22,7 +22,7 @@ Innym obszarem, w którym generowanie syntetycznych danych audiowizualnych może
 
 Pozostając jeszcze w Hollywood, nie sposób pominąć widzianych przez miliony osób modyfikacji. Przykładem jest głośna premiera nowego filmu "_Gwiezdne Wojny: Skywallker. Odrodzenie_", która miała stanąć przed próbą zaprezentowania fabuły po śmierci Carry Fisher, odgrywającej istotną rolę Księżniczki Lei. Reżyser podjął decyzję o zastosowaniu manipulacji prezentowanego obrazu w taki sposób, aby pośmiertnie nadać aktorce możliwość zwieńczenia swojej roli trzy lata po jej "połączeniu się z Mocą".
 
-Takie praktyki są stosowane znacznie częściej. Już w 2015. roku, w ramach kinowej premiery, ostatni raz mogliśmy zobaczyć *Braiana O'connera* w siódmej odsłonie "Szybkich i wściekłych".  Aktor Paul Walker, odgrywający tę rolę, odszedł tragicznie w trakcie zdjęć do filmu. Część scen zostało nagranych po wypadku, wykorzystując technikę nałożenia wirtualnej maski twarzy i syntezy głosu legendy motoryzacyjnego kina akcji. Popularnie, tego rodzaju materiały nazywane są *postmortem deepfakes*.
+Takie praktyki są stosowane znacznie częściej. Już w 2015 roku, w ramach kinowej premiery, ostatni raz mogliśmy zobaczyć *Braiana O'connera* w siódmej odsłonie "Szybkich i wściekłych".  Aktor Paul Walker, odgrywający tę rolę, odszedł tragicznie w trakcie zdjęć do filmu. Część scen zostało nagranych po wypadku, wykorzystując technikę nałożenia wirtualnej maski twarzy i syntezy głosu legendy motoryzacyjnego kina akcji. Popularnie, tego rodzaju materiały nazywane są *postmortem deepfakes*.
 
 ![](FastFurious7.png)
 *Scena z filmu "Szybcy i wściekli 7" przedstawiająca pośmiertnie Paula Walkera (Braian O'conner)*
